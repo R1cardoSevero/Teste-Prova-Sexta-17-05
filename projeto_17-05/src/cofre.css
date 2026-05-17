@@ -1,0 +1,7 @@
+section{
+    display: flex;
+}
+
+section .Tecla{
+    padding: 10px;
+}
