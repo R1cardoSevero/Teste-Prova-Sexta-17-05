@@ -1,0 +1,4 @@
+#perguntas{
+    display: flex;
+    flex-direction: column;
+}
